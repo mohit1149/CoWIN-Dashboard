@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  padding: 60px;
+}
+.plus-container {
+  display: flex;
+  align-items: center;
+}
+.plus-image {
+  width: 5vw;
+}
+.plus-heading {
+  font-family: 'Roboto';
+  color: #2cc6c6;
+  margin-left: 20px;
+}
+.main-plus-heading {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+}
+.products-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.products-error-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 48px;
+  padding-bottom: 64px;
+}
+.products-failure-img {
+  width: 250px;
+  height: 200px;
+}
+.product-failure-heading-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.3;
+}
+.first-container {
+  background-color: #1c1c2b;
+  padding: 30px;
+  margin-bottom: 50px;
+}
